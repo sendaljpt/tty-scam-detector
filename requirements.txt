@@ -1,0 +1,6 @@
+python-whois
+requests 
+tldextract
+colorama
+dnspython
+tqdm
