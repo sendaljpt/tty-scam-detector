@@ -114,4 +114,8 @@ This project is licensed under the **MIT** License. See the license badge above 
 
 If this project helps you, consider supporting the author.
 
+Link Saweria : https://saweria.co/typingtypo
+
+Or QRIS :
+
 <img src="assets/qris.jpg" alt="QRIS" width="220"/>
